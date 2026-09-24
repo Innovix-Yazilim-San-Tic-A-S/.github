@@ -33,7 +33,7 @@ Türkiye, Birleşik Krallık, Bosna-Hersek
 
 ## Açık Kaynak & Geliştirme
 
-Aktif geliştirme repomuz: [github.com/berk-innovix/innovix-web](https://github.com/berk-innovix/innovix-web)
+n8n iş akışı şablonlarımız (CRM, reklam ve ITSM otomasyonu): [github.com/Innovix-Yazilim-San-Tic-A-S/n8n-workflows](https://github.com/Innovix-Yazilim-San-Tic-A-S/n8n-workflows)
 
 ---
 
